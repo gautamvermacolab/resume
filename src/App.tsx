@@ -120,7 +120,7 @@ const App: React.FC = () => {
               >
                 <div className="md:hidden text-center mb-6">
                   <h2 className="font-extrabold text-xl tracking-widest uppercase leading-tight">Last Update</h2>
-                  <h2 className="font-extrabold text-xl tracking-widest uppercase leading-tight">July 1, 2026</h2>
+                  <h2 className="font-extrabold text-xl tracking-widest uppercase leading-tight">July 2, 2026</h2>
                 </div>
 
                 <div className="w-full shadow-[0_0_50px_rgba(0,0,0,0.8)] border border-white/5 rounded-[4px] overflow-hidden bg-black">
@@ -131,7 +131,7 @@ const App: React.FC = () => {
                 <div className="mt-6 flex flex-col md:flex-row items-center justify-between w-full gap-6 md:gap-0 font-inter">
                   <div className="hidden md:block text-left md:w-1/3">
                     <h2 className="font-extrabold text-[1.1rem] lg:text-[1.3rem] tracking-widest uppercase leading-tight">Last Update</h2>
-                    <h2 className="font-extrabold text-[1.1rem] lg:text-[1.3rem] tracking-widest uppercase leading-tight">July 1, 2026</h2>
+                    <h2 className="font-extrabold text-[1.1rem] lg:text-[1.3rem] tracking-widest uppercase leading-tight">July 2, 2026</h2>
                   </div>
                   <div className="w-full md:w-1/3 flex justify-center order-2 md:order-2">
                     <button className="w-[80%] md:w-auto bg-[#ffced9] hover:bg-white text-black font-extrabold px-12 py-3 rounded-full transition-colors duration-300 shadow-[0_0_15px_rgba(255,206,217,0.3)]">
@@ -160,5 +160,5 @@ const App: React.FC = () => {
     </div>
   );
 };
- 
+
 export default App;

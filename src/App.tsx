@@ -4,7 +4,7 @@ import React, { useState, useEffect } from 'react';
 const wondersData = [
   {
     id: 1,
-    title: 'THE MARBLE PAVILION',
+    title: 'Projects',
     subtitle: 'Strategic Brand Identity',
     desc: 'Analyzing architectural symmetry to understand digital brand trust. A case study in building premium aesthetics without clutter.',
     bgImg: 'src/assets/image/tagmahal.jpg',

@@ -14,7 +14,7 @@ const wondersData = [
   },
   {
     id: 2,
-    title: 'THE ROSE CITY',
+    title: 'Deatils about me',
     subtitle: 'User Experience & Retention',
     desc: 'Carved from stone, built for endurance. Exploring how foundational UX structures dictate long-term user engagement and retention.',
     bgImg: 'src/assets/image/petra-bg.jpg',

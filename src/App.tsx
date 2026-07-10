@@ -14,7 +14,7 @@ const wondersData = [
   },
   {
     id: 2,
-    title: 'Deatils about me',
+    title: 'Eductation',
     subtitle: 'User Experience & Retention',
     desc: 'Carved from stone, built for endurance. Exploring how foundational UX structures dictate long-term user engagement and retention.',
     bgImg: 'src/assets/image/petra-bg.jpg',
@@ -24,7 +24,7 @@ const wondersData = [
   },
   {
     id: 3,
-    title: 'THE ARENA',
+    title: 'Achievements',
     subtitle: 'High-Performance Systems',
     desc: 'Engineering scalable solutions capable of handling massive traffic, drawing inspiration from ancient structural mastery.',
     bgImg: 'src/assets/image/arena.jpg',
@@ -34,7 +34,7 @@ const wondersData = [
   },
   {
     id: 4,
-    title: 'THE EQUINOX',
+    title: 'Short & Long Goals',
     subtitle: 'Data-Driven Architecture',
     desc: 'Precision mapping and algorithmic efficiency. Sharing insights on how backend logic creates seamless frontend experiences.',
     bgImg: 'src/assets/image/chichen-bg.jpg',

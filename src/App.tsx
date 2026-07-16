@@ -44,7 +44,7 @@ const wondersData = [
   },
   {
     id: 5,
-    title: 'THE CLOUD PEAK',
+    title: 'Under Development Projects',
     subtitle: 'Serverless Deployment',
     desc: 'Reaching new heights in deployment strategies. Optimizing cloud storage and continuous integration for elite client projects.',
     bgImg: 'src/assets/image/machu-bg.jpg',
@@ -54,7 +54,7 @@ const wondersData = [
   },
   {
     id: 6,
-    title: 'THE MONUMENT',
+    title: 'Contact',
     subtitle: 'Global Outreach & SEO',
     desc: 'Establishing absolute visibility. Tactical knowledge on elevating search presence and authoritative domain structuring.',
     bgImg: 'src/assets/image/christ-bg.jpg',

@@ -64,7 +64,7 @@ const wondersData = [
   },
   {
     id: 7,
-    title: 'Feedback',
+    title: 'Feedbacks',
     subtitle: 'Cybersecurity & Protection',
     desc: 'Fortifying digital assets. Essential protocols and memory management practices to ensure impenetrable application security.',
     bgImg: 'src/assets/image/wall-bg.jpg',
